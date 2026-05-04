@@ -62,8 +62,8 @@ Water Level: 65% | Pump: False
 
 
 ##  Author
-Dr. Adarsha Gopalakrishna Bhat
-Ph.D. Soil and Water Conservation Engineering
+Dr. Adarsha Gopalakrishna Bhat,
+Ph.D. (Soil and Water Conservation Engineering),
 ICAR-IARI, New Delhi
 
 ## How to Run
