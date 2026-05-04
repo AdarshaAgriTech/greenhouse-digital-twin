@@ -42,10 +42,6 @@ The system follows a closed-loop control approach:
 - Tank > 70% → Pump OFF  
 
 
-## How to Run
-
-Clone the repository and run:
-
 ##  Example Output:
 Temp: 28.3 °C | RH: 64.8% | Lux: 52000
 EC: 1.75 dS/m | pH: 6.10
@@ -69,6 +65,9 @@ Water Level: 65% | Pump: False
 Dr. Adarsha Gopalakrishna Bhat
 Ph.D. Soil and Water Conservation Engineering
 ICAR-IARI, New Delhi
+
+## How to Run
+Clone the repository and run:
 
 ```bash
 python controller.py
