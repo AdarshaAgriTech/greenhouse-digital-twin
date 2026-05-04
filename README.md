@@ -18,7 +18,6 @@ It models real-world greenhouse operations including:
 - Nutrient dosing (EC & pH regulation)
 - System interaction (climate ↔ water ↔ nutrients)
 
----
 
 ##  System Architecture
 
@@ -47,9 +46,6 @@ The system follows a closed-loop control approach:
 
 Clone the repository and run:
 
-```bash
-python controller.py
-
 ##  Example Output:
 Temp: 28.3 °C | RH: 64.8% | Lux: 52000
 EC: 1.75 dS/m | pH: 6.10
@@ -69,7 +65,10 @@ Water Level: 65% | Pump: False
 -AI-based predictive control
 
 
-👨‍💻 Author
+##  Author
 Dr. Adarsha Gopalakrishna Bhat
 Ph.D. Soil and Water Conservation Engineering
 ICAR-IARI, New Delhi
+
+```bash
+python controller.py
